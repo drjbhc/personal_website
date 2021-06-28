@@ -13,4 +13,6 @@ Will work more in depth once a few projects are deployed online for linking purp
 Projects to deploy before fnishing v1.0:
 - Pizza Parlor
 - Solo Porject (History Tracker)
+
+
 */
